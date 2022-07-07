@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=MinSoub-Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FullStackDeveloper and Hacker!&descAlignY=51&descAlign=62)
+https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=MinSoub-Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FullStackDeveloper,Hacker
 
 ## FullStack Developer /Hacker
 
