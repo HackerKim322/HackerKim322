@@ -1,12 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=MinSoub-Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FullStackDeveloper and Hacker!&descAlignY=51&descAlign=62)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=MinSoub-Kim&desc=FullStack Developer/Hacker&fontSize=60" />
 
-## FullStack Developer /Hacker
 
-#### Coding skill:
 
-<img src="https://img.shields.io/badge/C-FFCA28?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=black"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=black"/><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
 
-![HackerKim322's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerKim322&show_icons=true&theme=radical)
+
+#### Coding skill:<img src="https://img.shields.io/badge/C-FFCA28?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=black"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=black"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
+
+ ![HackerKim322's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerKim322&show_icons=true&theme=radical)
+
+
 
 
 
