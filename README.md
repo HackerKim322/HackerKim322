@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=MinSoub-Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FullStackDeveloper,Hacker
+<img src="https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=MinSoub-Kim&desc=FullStack Developer/Hacker&fontSize=60" />
 
 
 #### Coding skill:
